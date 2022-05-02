@@ -77,8 +77,8 @@ function mouseReleased() {
 
 
 function preload() {
-  closed_trash = loadImage('https://image.flaticon.com/icons/png/512/18/18297.png');
-  opened_trash = loadImage('//pic.onlinewebfonts.com/svg/img_569538.png');
+  closed_trash = loadImage('https://cdn-icons-png.flaticon.com/512/18/18297.png');
+  opened_trash = loadImage('https://pic.onlinewebfonts.com/svg/img_569538.png');
 }
 
 // calculates the polynomial with Lagrange's interpolation formula
